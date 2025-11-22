@@ -11,8 +11,10 @@ git reote add origun  https://github.com/craziie0023/basic_python_68_2.git
 git config --global user.name "Arucha"
 git config --global user.email "craziie0023@gmail.com"
 
-git add.
+git add .
 git commit -m "Fixed sound volume"
 git push origin main
 
 git pull origin main
+
+git clone https://github.com/craziie0023/basic_python_68_2.git
